@@ -11,3 +11,20 @@
  *= require_self
  *= require_tree .
  */
+
+
+body {
+ 		background-color: #f7f7f7;
+
+ } 
+
+/****************************************************************
+   CSS for top header 
+****************************************************************/
+
+#header {
+	background-image: url('../assets/images/bg-header.gif');
+	background-repeat: repeat-x;
+	margin: 0px auto 0px auto;
+	height: 65px;
+}
